@@ -66,13 +66,7 @@ struct LoginView: View {
                         .offset(x: viewState.width/15, y: viewState.height/15)
                     
                     
-     //               Text("Learn design & code\nFrom scratch.")
-    //                    .font(.title)
-    //                    .bold()
-    //                    .foregroundColor(.white)
-    //                    .multilineTextAlignment(.center)
-    //                    .rotation3DEffect(Angle(degrees: isDragging ? 2 : 0), axis: (x: viewState.height/10, y: viewState.width/10, z: 0))
-                    
+
                     Text("Designed by Students at WHUT")
                         .font(.subheadline)
                         .frame(width: 250)
