@@ -5,4 +5,4 @@ Has a form for content deliverly using contentfull.
 
 Has a lot of Bugs. ;)
 
-my Software Project Dec 2020 at Wuhan University of Technology. 
+Software Project Dec 2020 at Wuhan University of Technology. 
