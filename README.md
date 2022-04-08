@@ -2,7 +2,7 @@
 An iOS application that uses Geo Locattion to allow students to authenticate their fingerprint in school grounds. 
 
 ## Note:
--Uses fire base for user account auth
+-Uses Google firebase for user account auth
 
 -Has a form for content deliverly using contentfull.
 
