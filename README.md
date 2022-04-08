@@ -1,5 +1,5 @@
 # WHUT-GeoLocation | IOS Student Management System
-An iOS application that uses Geo Locattion to allow students to authenticate their fingerprint in school grounds. 
+An iOS application that uses Geo Location to allow students to authenticate their fingerprints on school grounds.
 
 ## Note:
 -Uses Google firebase for user account auth
